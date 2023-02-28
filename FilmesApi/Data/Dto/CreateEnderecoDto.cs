@@ -2,7 +2,7 @@
 
 namespace FilmesApi.Data.Dto;
 
-public class CreateEndereco
+public class CreateEnderecoDto
 {
 
     [Required]

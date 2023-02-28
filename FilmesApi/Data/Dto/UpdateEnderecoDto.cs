@@ -1,6 +1,6 @@
 ﻿namespace FilmesApi.Data.Dto
 {
-    public class UpdateEndereco
+    public class UpdateEnderecoDto
     {  
         
         public string Logadouro { get; set; }

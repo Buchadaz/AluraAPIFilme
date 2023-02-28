@@ -2,7 +2,7 @@
 
 namespace FilmesApi.Data.Dto;
 
-public class ReadEndereco
+public class ReadEnderecoDto
 {   
 
     public int Id { get; set; }
